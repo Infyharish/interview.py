@@ -1,1 +1,3 @@
 testing to push the file to github using git add 
+first step is to create a file and write something u want ,then git add file name ,then git commit -m "commit mesage" ,
+then final step is to git push origin main #here we are saying that we want to push the file in origin of the main file inside github#.
